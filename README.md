@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/article-preview-component-solution-WXcPtydSg5)
-- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--Article-preview-component-solution/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-5kpi55KVGA)
+- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--Interactive-rating-component-solution/)
 
 ## My process
 
