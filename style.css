@@ -48,7 +48,6 @@ body {
 	justify-content: center;
 	background-color: var(--Grey-950);
 	padding: 0 1rem;
-	/* margin: 0 1rem; */
 }
 img {
   max-width: 100%;
@@ -80,14 +79,14 @@ img {
 	font-size: 1.75rem;
 	line-height: 2.1875rem;
 	color: var(--White);
-	margin-top: 30px;
+	margin-top: 2rem;
 }
 .text {
 	font-weight: 400;
 	font-size: 0.9375rem;
 	color: var(--Grey-500);
-	margin-top: 7px;
-	margin-bottom: 24px;
+	margin-top: 0.4375rem;
+	margin-bottom: 1.5rem;
 }
 
 .radio-container {
@@ -100,7 +99,7 @@ fieldset {
 	border: 0;
 	display: flex;
 	gap: 1.375rem;
-	margin-bottom: 32px;
+	margin-bottom: 2rem;
 }
 .form-control {
 	font-weight: 700;
@@ -140,7 +139,7 @@ input[type="radio"] {
 }
 @media (max-width: 375px) {
 	fieldset {
-		gap: 16px;
+		gap: 1rem;
 	}
 }
  
@@ -194,7 +193,7 @@ input[type="radio"]:hover {
 	background: var(--Orange-500);
 	border-radius: 1.40625rem;
 	border: none;
-	padding: 13px ;
+	padding: 0.8125rem ;
 	transition: all 0.5s;
 }
 .btn:hover {
@@ -204,8 +203,8 @@ input[type="radio"]:hover {
 
 .thanks-card {
 	border-radius: 30px;
-	max-width: 412px;
-	padding: 32px;
+	max-width: 25.75rem;
+	padding: 2rem;
 	flex-direction: column;
 	display: flex;
 	align-items: center;
@@ -218,22 +217,21 @@ input[type="radio"]:hover {
 }
 
 .rate-container {
-	margin-top: 32px;
+	margin-top: 2rem;
   	padding: 0.25rem 1.25rem;
   	background: var(--Grey-900);
-  	border-radius: 22px;
+  	border-radius: 1.375rem;
 }
 .rated-p {
 	font-weight: 400;
 	font-size: 0.9375rem;
-	line-height: 160%;
 	text-align: center;
 	color: var(--Orange-500);
 }
 
 @media (max-width: 26.5625rem){
 	.title {
-		font-size: 24px;
+		font-size: 1.5rem;
 	}
 	.rating-card,
 	.thanks-card {
