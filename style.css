@@ -164,6 +164,15 @@ input[type="radio"]:hover {
 	color: var(--White);
 }
 
+.sr-only {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	padding: 0;
+	overflow: hidden;
+}
+
 .error-message {
 	font-weight: 400;
 	font-size: 0.75rem;
